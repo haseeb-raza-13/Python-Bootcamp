@@ -1,0 +1,34 @@
+{
+  "build": "haa95532_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vs2015_runtime >=14.42.34433"
+  ],
+  "extracted_package_dir": "C:\\Users\\PMLS\\miniconda3\\pkgs\\vc-14.42-haa95532_4",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.42-haa95532_4.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\PMLS\\miniconda3\\pkgs\\vc-14.42-haa95532_4",
+    "type": 1
+  },
+  "md5": "3a087fe8b4809313b355b19c782fb502",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\PMLS\\miniconda3\\pkgs\\vc-14.42-haa95532_4.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4ba82ce6a81e8037b9a1887d62beb381e41e0ae0354894171e3351a4382092b1",
+  "size": 10872,
+  "subdir": "win-64",
+  "timestamp": 1739202647000,
+  "track_features": "vc14",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/vc-14.42-haa95532_4.conda",
+  "version": "14.42"
+}

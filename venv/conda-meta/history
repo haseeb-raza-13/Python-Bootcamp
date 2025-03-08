@@ -1,0 +1,20 @@
+==> 2025-03-07 21:39:46 <==
+# cmd: C:\Users\PMLS\miniconda3\Scripts\conda-script.py create -p venv python==3.12
+# conda version: 24.9.2
++defaults/noarch::tzdata-2025a-h04d1e81_0
++defaults/win-64::bzip2-1.0.8-h2bbff1b_6
++defaults/win-64::ca-certificates-2025.2.25-haa95532_0
++defaults/win-64::expat-2.6.4-h8ddb27b_0
++defaults/win-64::libffi-3.4.4-hd77b12b_1
++defaults/win-64::openssl-3.0.16-h3f729d1_0
++defaults/win-64::pip-25.0-py312haa95532_0
++defaults/win-64::python-3.12.0-h1d929f7_0
++defaults/win-64::setuptools-75.8.0-py312haa95532_0
++defaults/win-64::sqlite-3.45.3-h2bbff1b_0
++defaults/win-64::tk-8.6.14-h0416ee5_0
++defaults/win-64::vc-14.42-haa95532_4
++defaults/win-64::vs2015_runtime-14.42.34433-he0abc0d_4
++defaults/win-64::wheel-0.45.1-py312haa95532_0
++defaults/win-64::xz-5.6.4-h4754444_1
++defaults/win-64::zlib-1.2.13-h8cc25b3_1
+# update specs: ['python==3.12']
