@@ -1,3 +1,5 @@
 langchain
 numpy
 -e .
+pandas
+scikit-learn
